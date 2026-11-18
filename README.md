@@ -5,3 +5,5 @@ I didn't find a single mod that covered all versions, while also keeping the fun
 This also includes all vanilla lang translations from 1.16.1.
 
 There will be no extra customization or changes to how it behaves from 1.16.1, the only exception is parity with newer versions where you can bind f3 functions in the controls.
+
+[Modrinth](https://modrinth.com/mod/render-distance-hotkeys) when approved
