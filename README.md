@@ -1,9 +1,4 @@
-# renderdistancehotkeys
+Adds back F3+F hotkeys that were removed in 1.19 all the way up to the latest version.
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Also includes the translations from 1.16.1.
+There will be no extra customization or changes, only a copy of how 1.16.1 feels, the only exception is parity with newer versions where you can bind f3 functions in the controls.
