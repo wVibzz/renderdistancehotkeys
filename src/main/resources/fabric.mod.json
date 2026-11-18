@@ -8,8 +8,7 @@
 		"Vibzz"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/wVibzz/renderdistancehotkeys"
 	},
 	"license": "CC-BY-NC-ND-4.0",
 	"icon": "assets/renderdistancehotkeys/icon.png",
