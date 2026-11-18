@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Görüş mesafesini değiştir (Ters çevirmek için shift tuşunu kullanın)",
+	"debug.cycle_renderdistance.message": "Görüş Mesafesi: %s",
+	"key.debug.cycleRenderDistance": "Görüş Mesafesi"
+}

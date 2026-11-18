@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Gå igennem synslængden (skift for at gøre omvendt)",
+	"debug.cycle_renderdistance.message": "Synslængde: %s",
+	"key.debug.cycleRenderDistance": "Synslængde"
+}

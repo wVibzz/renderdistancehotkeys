@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Alternar distància de renderitzat (Shift per invertir)",
+	"debug.cycle_renderdistance.message": "Distància de renderitzat: %s",
+	"key.debug.cycleRenderDistance": "Distància de renderitzat"
+}

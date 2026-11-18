@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = 在渲染距离间循环（按Shift来反向循环）",
+	"debug.cycle_renderdistance.message": "渲染距离：%s",
+	"key.debug.cycleRenderDistance": "渲染距离"
+}

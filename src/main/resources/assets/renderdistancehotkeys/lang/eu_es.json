@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Aldatu errendatze distantzia (maius. alderantzizkatzeko)",
+	"debug.cycle_renderdistance.message": "Render distantzia: %s",
+	"key.debug.cycleRenderDistance": "Render distantzia"
+}

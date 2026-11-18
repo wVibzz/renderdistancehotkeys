@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "renderdistancehotkeys",
+	"version": "${version}",
+	"name": "renderdistancehotkeys",
+	"description": "Adds back F3+F hotkeys that were removed in 1.19 all the way up to the latest version.",
+	"authors": [
+		"Vibzz"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC-BY-NC-ND-4.0",
+	"icon": "assets/renderdistancehotkeys/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"net.vibzz.renderdistancehotkeys.Renderdistancehotkeys"
+		]
+	},
+	"mixins": [
+		"renderdistancehotkeys.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "${minecraft}",
+		"java": ">=${java}",
+		"${fabric_api_id}": "*"
+	}
+}

@@ -1,0 +1,4 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Sichtweite erhöhen (Umschalt zum Verringern)",
+	"debug.cycle_renderdistance.message": "Sichtweite: %s"
+}

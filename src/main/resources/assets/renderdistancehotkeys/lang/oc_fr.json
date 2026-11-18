@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Incrementar la distància d'afichatge (Shift per invertir)",
+	"debug.cycle_renderdistance.message": "Dist. d'afichatge: %s",
+	"key.debug.cycleRenderDistance": "Dist. d'afichatge"
+}

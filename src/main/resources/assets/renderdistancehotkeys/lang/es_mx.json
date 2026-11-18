@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Aumentar distancia de renderizado (Mayús para reducirla)",
+	"debug.cycle_renderdistance.message": "Renderizado: %s chunks",
+	"key.debug.cycleRenderDistance": "Renderizado"
+}

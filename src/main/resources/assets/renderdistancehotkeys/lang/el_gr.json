@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Εναλλαγή εμβέλειας όρασης (shift για αντιστροφή)",
+	"debug.cycle_renderdistance.message": "Εμβέλεια Όρασης: %s",
+	"key.debug.cycleRenderDistance": "Απόσταση Απόδοσης"
+}

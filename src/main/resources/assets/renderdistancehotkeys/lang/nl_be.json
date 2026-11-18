@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Weergavebereik aanpassen (druk op shift om terug te gaan)",
+	"debug.cycle_renderdistance.message": "Weergavebereik: %s",
+	"key.debug.cycleRenderDistance": "Weergaveafstand"
+}

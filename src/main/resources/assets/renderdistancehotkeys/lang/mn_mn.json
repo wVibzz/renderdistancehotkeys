@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Харагдах хязгаарыг солих (shift дарж эсрэгээр нь)",
+	"debug.cycle_renderdistance.message": "Харагдах хязгаар: %s",
+	"key.debug.cycleRenderDistance": "Харагдах хязгаар"
+}

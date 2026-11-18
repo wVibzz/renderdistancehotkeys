@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F III + F = Muta amplitudinem spatii visibilis (preme Maiusc ad mutandum retrorsum)",
+	"debug.cycle_renderdistance.message": "Amplitudo spatii visibilis: %s",
+	"key.debug.cycleRenderDistance": "Ampl. spatii visibilis"
+}

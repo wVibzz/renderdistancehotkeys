@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Växla synligt avstånd (shift för att invertera)",
+	"debug.cycle_renderdistance.message": "Synligt avstånd: %s",
+	"key.debug.cycleRenderDistance": "Synligt avstånd"
+}

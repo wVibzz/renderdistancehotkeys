@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Renderdistanz änneren (Shift fir ëmzedréien)",
+	"debug.cycle_renderdistance.message": "Renderdistanz: %s",
+	"key.debug.cycleRenderDistance": "Renderdistanz"
+}

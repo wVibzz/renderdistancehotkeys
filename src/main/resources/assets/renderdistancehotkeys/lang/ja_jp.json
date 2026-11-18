@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = 描画距離を変更（Shift同時押しで逆方向）",
+	"debug.cycle_renderdistance.message": "描画距離：%s",
+	"key.debug.cycleRenderDistance": "描画距離"
+}

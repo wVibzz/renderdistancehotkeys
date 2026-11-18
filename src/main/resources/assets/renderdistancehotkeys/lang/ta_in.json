@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = சுழற்சிக்கான தொலைவு (தலைகீழாக மாற்றவும்)",
+	"debug.cycle_renderdistance.message": "தூரம் செலுத்துங்கள்: %s",
+	"key.debug.cycleRenderDistance": "தொலைவு வழங்கவும்"
+}

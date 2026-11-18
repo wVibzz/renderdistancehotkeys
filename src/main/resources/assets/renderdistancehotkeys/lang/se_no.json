@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Molssohalla oaidninguhkodaga (Molsso nuppiguvlui Shift boaluin)",
+	"debug.cycle_renderdistance.message": "Oaidninguhkodat: %s",
+	"key.debug.cycleRenderDistance": "Oaidninguhkodat"
+}

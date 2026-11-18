@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Змяніць далёкасць адрысоўкі (shift - адваротны кірунак)",
+	"debug.cycle_renderdistance.message": "Далёкасць адрысоўкі: %s",
+	"key.debug.cycleRenderDistance": "Адрысоўка"
+}

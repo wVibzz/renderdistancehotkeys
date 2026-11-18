@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Mărește distanța de randare (Shift pentru a micșora)",
+	"debug.cycle_renderdistance.message": "Distanță de redare: %s",
+	"key.debug.cycleRenderDistance": "Distanță vizuală"
+}

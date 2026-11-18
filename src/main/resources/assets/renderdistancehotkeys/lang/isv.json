@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Izměni dalj okazanija (shift ko zavratiti)",
+	"debug.cycle_renderdistance.message": "Dalj okazanija: %s",
+	"key.debug.cycleRenderDistance": "Obseg viděnja"
+}

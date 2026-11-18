@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Kruži vidljivost (Shift za inverziju)",
+	"debug.cycle_renderdistance.message": "Vidljivost: %s",
+	"key.debug.cycleRenderDistance": "Vidljivost"
+}

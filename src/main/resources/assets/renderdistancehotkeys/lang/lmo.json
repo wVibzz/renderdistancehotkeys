@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Fa cresser la visibilità (+ Maiusc per sbassala)",
+	"debug.cycle_renderdistance.message": "Visibilità: %s toch",
+	"key.debug.cycleRenderDistance": "Visibilità"
+}

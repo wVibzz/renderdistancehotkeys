@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Зголемување на видливото растојание (Shift за намалување)",
+	"debug.cycle_renderdistance.message": "Видливо растојание: %s",
+	"key.debug.cycleRenderDistance": "Видливост"
+}

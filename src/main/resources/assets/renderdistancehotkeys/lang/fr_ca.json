@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Augmenter la distance de rendu (Shift pour inverser)",
+	"debug.cycle_renderdistance.message": "Distance de rendu : %s",
+	"key.debug.cycleRenderDistance": "Distance de rendu"
+}

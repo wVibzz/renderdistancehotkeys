@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Кружи даљину исцртавања (Shift за инверзију)",
+	"debug.cycle_renderdistance.message": "Даљина исцртавања: %s",
+	"key.debug.cycleRenderDistance": "Видљивост"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Fad rindreála rothaíochta (aistriú go inbhéartaithe)",
+	"debug.cycle_renderdistance.message": "Fad Rindreála: %s",
+	"key.debug.cycleRenderDistance": "Fad Rindreála"
+}

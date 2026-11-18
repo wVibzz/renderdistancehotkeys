@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Suurenna näkyvyysaluetta (pienennä shiftillä)",
+	"debug.cycle_renderdistance.message": "Näköetäisyys: %s",
+	"key.debug.cycleRenderDistance": "Näköetäisyys"
+}

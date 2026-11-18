@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Verander Sigafstand (Shift om terug te gaan)",
+	"debug.cycle_renderdistance.message": "Render Afstand: %s",
+	"key.debug.cycleRenderDistance": "Sigafstand"
+}

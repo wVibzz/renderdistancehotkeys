@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Sichtwiedte ännern (Ümschalt to’n Ümkehren)",
+	"debug.cycle_renderdistance.message": "Sichtwiedte: %s",
+	"key.debug.cycleRenderDistance": "Sichtwiet"
+}

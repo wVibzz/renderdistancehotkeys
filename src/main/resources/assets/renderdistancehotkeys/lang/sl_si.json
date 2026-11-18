@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Spremeni razdaljo izrisa (Shift, da obrneš)",
+	"debug.cycle_renderdistance.message": "Razdalja izrisa: %s",
+	"key.debug.cycleRenderDistance": "Razdalja izrisa"
+}

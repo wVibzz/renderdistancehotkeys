@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 +F = Sichweide eahöhn (Umschald zum Verringan)",
+	"debug.cycle_renderdistance.message": "Sichdwaide: %s",
+	"key.debug.cycleRenderDistance": "Sichdweide"
+}

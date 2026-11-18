@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Prepnúť dohľadnosť (Shift pre opačný smer)",
+	"debug.cycle_renderdistance.message": "Dohľadnosť: %s",
+	"key.debug.cycleRenderDistance": "Dohľadnosť"
+}

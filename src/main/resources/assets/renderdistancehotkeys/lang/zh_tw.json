@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = 在不同顯示距離中循環（按 Shift 鍵反向循環）",
+	"debug.cycle_renderdistance.message": "顯示距離：%s",
+	"key.debug.cycleRenderDistance": "顯示距離"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Přepnout dohled (inverze klávesou SHIFT)",
+	"debug.cycle_renderdistance.message": "Dohled: %s",
+	"key.debug.cycleRenderDistance": "Dohlednost"
+}

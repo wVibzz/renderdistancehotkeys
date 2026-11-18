@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = تغییر فاصله بارگذاری (برای برگرداندن shift را نگه دارید)",
+	"debug.cycle_renderdistance.message": "فاصله بارگزاری: %s",
+	"key.debug.cycleRenderDistance": "فاصله بارگزاری"
+}

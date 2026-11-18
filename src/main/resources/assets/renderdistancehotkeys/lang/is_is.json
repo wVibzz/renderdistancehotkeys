@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Skipta um mynddýpt (Shift skiptir til baka)",
+	"debug.cycle_renderdistance.message": "Mynddýpt: %s",
+	"key.debug.cycleRenderDistance": "Þoka"
+}

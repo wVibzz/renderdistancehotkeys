@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = հեռավորության մատուցման ցիկլ (Shift to Invert)",
+	"debug.cycle_renderdistance.message": "Տեղադրեք հեռավորությունը: %s",
+	"key.debug.cycleRenderDistance": "Հեռվանկար"
+}

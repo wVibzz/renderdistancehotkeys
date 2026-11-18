@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = เพิ่มระยะการมองเห็น (กด Shift เพื่อลดระยะ)",
+	"debug.cycle_renderdistance.message": "ระยะการมองเห็น: %s",
+	"key.debug.cycleRenderDistance": "ระยะการมองเห็น"
+}

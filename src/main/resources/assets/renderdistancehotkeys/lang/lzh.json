@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "【F3 + F】迂繞於異焉之繪距（撃Shift鍵以返迂焉）",
+	"debug.cycle_renderdistance.message": "繪距乃%s",
+	"key.debug.cycleRenderDistance": "繪距"
+}

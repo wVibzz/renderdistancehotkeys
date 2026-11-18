@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Sischdweide erheehn (Umschald zum Vorringorn)",
+	"debug.cycle_renderdistance.message": "Sischdweide: %s",
+	"key.debug.cycleRenderDistance": "Sischdweide"
+}

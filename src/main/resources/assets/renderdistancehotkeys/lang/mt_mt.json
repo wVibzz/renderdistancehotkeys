@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Distanza ta 'ċikli ta' ritorn (Shift to invertit)",
+	"debug.cycle_renderdistance.message": "Rendering distanza:%s",
+	"key.debug.cycleRenderDistance": "Viżibilità"
+}

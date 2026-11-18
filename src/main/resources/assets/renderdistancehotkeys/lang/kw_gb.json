@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Kylghres pelder rendra (Shift rag gorthtreylya)",
+	"debug.cycle_renderdistance.message": "Pelder Rendra: %s",
+	"key.debug.cycleRenderDistance": "Pelder Rendra"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Rritja e distancës së ngarkimit (Shift për të përmbysur)",
+	"debug.cycle_renderdistance.message": "Distanca e ofrimit: %s",
+	"key.debug.cycleRenderDistance": "Distanca e shfaqjes"
+}

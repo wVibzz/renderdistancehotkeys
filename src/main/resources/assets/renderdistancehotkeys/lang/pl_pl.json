@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Zwiększ odległość renderowania (Shift, aby zmniejszyć)",
+	"debug.cycle_renderdistance.message": "Odległość renderowania: %s",
+	"key.debug.cycleRenderDistance": "Zasięg render."
+}

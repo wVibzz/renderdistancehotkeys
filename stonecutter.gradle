@@ -1,0 +1,6 @@
+stonecutter.active '26.3'
+
+tasks.register('runActiveClient') {
+	group = 'stonecutter'
+	dependsOn ":${stonecutter.active.project}:runClient"
+}

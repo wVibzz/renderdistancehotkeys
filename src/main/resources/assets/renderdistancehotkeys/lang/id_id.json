@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Putar jarak pandang (shift untuk membalik)",
+	"debug.cycle_renderdistance.message": "Jarak Pandang:%s",
+	"key.debug.cycleRenderDistance": "Jarak Pandang"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Cycle view range (shift to invert)",
+	"debug.cycle_renderdistance.message": "View Range: %s",
+	"key.debug.cycleRenderDistance": "Eyes Range"
+}

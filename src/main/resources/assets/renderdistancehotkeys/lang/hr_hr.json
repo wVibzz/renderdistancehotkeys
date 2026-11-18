@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Mijenja prikaz udaljenosti (tipka Shift obrće)",
+	"debug.cycle_renderdistance.message": "Prikaz udaljenosti: %s",
+	"key.debug.cycleRenderDistance": "Vidljivost"
+}

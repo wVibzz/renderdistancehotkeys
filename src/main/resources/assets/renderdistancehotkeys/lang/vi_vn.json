@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Đổi giữa các khoảng cách kết xuất (shift để đảo ngược)",
+	"debug.cycle_renderdistance.message": "Khoảng cách kết xuất: %s",
+	"key.debug.cycleRenderDistance": "Kh.cách kết xuất"
+}

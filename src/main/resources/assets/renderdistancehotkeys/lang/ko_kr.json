@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = 렌더 거리 변경 (Shift로 반대 방향)",
+	"debug.cycle_renderdistance.message": "렌더 거리: %s",
+	"key.debug.cycleRenderDistance": "렌더 거리"
+}

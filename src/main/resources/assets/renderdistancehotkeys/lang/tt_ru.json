@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Күрсәтеләчәк араны зурайту (shift киметү өчен)",
+	"debug.cycle_renderdistance.message": "Күрсәтеләчәк ара: %s",
+	"key.debug.cycleRenderDistance": "Күрсәтеләчәк ара"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Alternar nivel de renderizado (Mayús. para invertir)",
+	"debug.cycle_renderdistance.message": "Renderizado: %s chunks",
+	"key.debug.cycleRenderDistance": "Renderizado"
+}

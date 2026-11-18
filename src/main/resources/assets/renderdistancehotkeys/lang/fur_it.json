@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = aumente la distance rapresentade (+ Maiusc par diminuîle)",
+	"debug.cycle_renderdistance.message": "Distance rapresentade: %s tocs",
+	"key.debug.cycleRenderDistance": "Distance di visualizâ"
+}

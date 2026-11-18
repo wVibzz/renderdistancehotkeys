@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Kitar jarak penglihatan (shift untuk terbalikkan)",
+	"debug.cycle_renderdistance.message": "Jarak Pengemukaan: %s",
+	"key.debug.cycleRenderDistance": "Jarak Pengemukaan"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Gå gjennom skildringsviddene (shift for å snu)",
+	"debug.cycle_renderdistance.message": "Synsavstand: %s",
+	"key.debug.cycleRenderDistance": "Skildringsvidde"
+}

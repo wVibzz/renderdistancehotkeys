@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Cycle render distance (Shift to invert)",
+	"debug.cycle_renderdistance.message": "Render Distance: %s",
+	"key.debug.cycleRenderDistance": "Render Distance"
+}

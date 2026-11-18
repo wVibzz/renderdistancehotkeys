@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Byta synsvidd (shift for å invertera)",
+	"debug.cycle_renderdistance.message": "Synsvidd: %s",
+	"key.debug.cycleRenderDistance": "Synsvidd"
+}

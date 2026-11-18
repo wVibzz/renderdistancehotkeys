@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Incrementa la distanza di rendering (+ Maiusc per decrementarla)",
+	"debug.cycle_renderdistance.message": "Distanza di rendering: %s chunk",
+	"key.debug.cycleRenderDistance": "Visibilità"
+}

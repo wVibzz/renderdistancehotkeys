@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Cuairt astar reandaraidh (Shift gus ath-thionndadh)",
+	"debug.cycle_renderdistance.message": "Astar reandaraidh: %s",
+	"key.debug.cycleRenderDistance": "Astar reandaraidh"
+}

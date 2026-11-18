@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Augmenta la distància de renderitzat (majúscula per reduir-la)",
+	"debug.cycle_renderdistance.message": "Distància de renderitzat: %s",
+	"key.debug.cycleRenderDistance": "Punt remot de visió"
+}

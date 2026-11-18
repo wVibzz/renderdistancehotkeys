@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F: incrementa ła distansa de render (Shift par invertir)",
+	"debug.cycle_renderdistance.message": "Distansa de render: %s",
+	"key.debug.cycleRenderDistance": "Distansa de renderizasion"
+}

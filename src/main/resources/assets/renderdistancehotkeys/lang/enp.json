@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Loop through draw farness (shift to flip)",
+	"debug.cycle_renderdistance.message": "Draw Farness: %s",
+	"key.debug.cycleRenderDistance": "Draw Farness"
+}

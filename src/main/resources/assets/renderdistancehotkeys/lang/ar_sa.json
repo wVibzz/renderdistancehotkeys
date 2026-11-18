@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = دورة حول نطاق الرؤية (Shift من أجل العكس)",
+	"debug.cycle_renderdistance.message": "مسافة عرض العالم: %s",
+	"key.debug.cycleRenderDistance": "مسافة العرض"
+}

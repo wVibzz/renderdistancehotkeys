@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Alternar nivel de renderizado (tecla \"shift\" para inverter)",
+	"debug.cycle_renderdistance.message": "Distancia de visión: %s",
+	"key.debug.cycleRenderDistance": "Distancia de visión"
+}

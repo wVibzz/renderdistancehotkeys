@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Sichtweite erhöhn (Umschoit zum Verringan)",
+	"debug.cycle_renderdistance.message": "Sichtweite: %s",
+	"key.debug.cycleRenderDistance": "Sichtweitn"
+}

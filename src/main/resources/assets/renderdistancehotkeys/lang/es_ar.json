@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Aumentar distancia de renderizado (shift para reducirla)",
+	"debug.cycle_renderdistance.message": "Renderizado: %s",
+	"key.debug.cycleRenderDistance": "Renderizado"
+}

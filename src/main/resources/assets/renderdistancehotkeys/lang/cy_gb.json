@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Cylchu pellter rendro (shift i wrth-droi)",
+	"debug.cycle_renderdistance.message": "Pellter Rendro: %s",
+	"key.debug.cycleRenderDistance": "Pellter Rendro"
+}

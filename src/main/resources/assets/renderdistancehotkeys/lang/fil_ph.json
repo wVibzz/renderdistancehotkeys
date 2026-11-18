@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Palitan ang distansya ng paningin (pindutin ang shift para bumalik)",
+	"debug.cycle_renderdistance.message": "Haba ng Paningin: %s",
+	"key.debug.cycleRenderDistance": "Layo ng Paningin"
+}

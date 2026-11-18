@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Alterni bildigan distancon (majuskliga por inversigi)",
+	"debug.cycle_renderdistance.message": "Bildiga distanco: %s",
+	"key.debug.cycleRenderDistance": "Bildiga distanco"
+}

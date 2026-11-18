@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = смени настройка за видимост (натисни shift за да се върнеш да предишна настройка)",
+	"debug.cycle_renderdistance.message": "Максимална видимост: %s",
+	"key.debug.cycleRenderDistance": "Видимост"
+}

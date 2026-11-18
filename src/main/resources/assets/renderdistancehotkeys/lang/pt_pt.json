@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Percorrer alcances visuais (Shift para inverter)",
+	"debug.cycle_renderdistance.message": "Alcance visual: %s chunks",
+	"key.debug.cycleRenderDistance": "Alcance visual"
+}

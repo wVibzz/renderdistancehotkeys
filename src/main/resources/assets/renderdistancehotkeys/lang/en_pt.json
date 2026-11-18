@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Cycle height o' t'mast (shift to invert)",
+	"debug.cycle_renderdistance.message": "Height o' t'mast: %s",
+	"key.debug.cycleRenderDistance": "Height o' t'mast"
+}

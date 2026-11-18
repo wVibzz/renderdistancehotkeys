@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = padidinti matomumą (įspauskite Shift, kad pamažinti)",
+	"debug.cycle_renderdistance.message": "Matomumas: %s",
+	"key.debug.cycleRenderDistance": "Matomumas"
+}

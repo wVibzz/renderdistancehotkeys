@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "ಎಫ್ 3 + ಎಫ್ = ಸೈಕಲ್ ರೆಂಡರ್ ದೂರ (ವಿಲೋಮಕ್ಕೆ ಶಿಫ್ಟ್)",
+	"debug.cycle_renderdistance.message": "ನಿರೂಪಿಸುವ ದೂರ:%s",
+	"key.debug.cycleRenderDistance": "ದೂರವನ್ನು ಸಲ್ಲಿಸಿ"
+}

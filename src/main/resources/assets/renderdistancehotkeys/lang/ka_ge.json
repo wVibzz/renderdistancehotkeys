@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = ციკლის გაწევა მანძილზე (გადასვლა ინვერტორზე)",
+	"debug.cycle_renderdistance.message": "გამოსახხვის მანძილი: %s",
+	"key.debug.cycleRenderDistance": "გამოსახვა"
+}

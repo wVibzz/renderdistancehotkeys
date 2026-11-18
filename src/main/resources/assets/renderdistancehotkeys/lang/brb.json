@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Weergaovebereik aonpasse (drök op shift um vrom te goane)",
+	"debug.cycle_renderdistance.message": "Weergavebereik: %s",
+	"key.debug.cycleRenderDistance": "Wirgaoveberèèk"
+}

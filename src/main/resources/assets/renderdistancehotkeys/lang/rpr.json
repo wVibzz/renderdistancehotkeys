@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Увеличить дальность прорисовки (Shіft для уменьшенія)",
+	"debug.cycle_renderdistance.message": "Дальность прорисовки: %s",
+	"key.debug.cycleRenderDistance": "Прорисовка"
+}

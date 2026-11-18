@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Sichtwiti ändere (Umschalt zum Umchere)",
+	"debug.cycle_renderdistance.message": "Sichtwiti: %s",
+	"key.debug.cycleRenderDistance": "Sichtwiiti"
+}

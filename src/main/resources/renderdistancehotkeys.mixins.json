@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.vibzz.renderdistancehotkeys.mixin",
+	"compatibilityLevel": "JAVA_${java}",
+	"client": [
+		"KeyboardHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

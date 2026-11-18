@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Maek fog go away (shift to maek it closer)",
+	"debug.cycle_renderdistance.message": "rendur so far: %s",
+	"key.debug.cycleRenderDistance": "Doodl far away thingy"
+}

@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Збільшити відстань промальовування (Shift щоб зменшити)",
+	"debug.cycle_renderdistance.message": "Дальность промальовування: %s",
+	"key.debug.cycleRenderDistance": "Дальн. промальов."
+}

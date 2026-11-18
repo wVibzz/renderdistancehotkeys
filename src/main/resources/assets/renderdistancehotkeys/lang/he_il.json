@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = שנה מרחק ראיה (Shift כדי לחזור)",
+	"debug.cycle_renderdistance.message": "מרחק ראיה: %s",
+	"key.debug.cycleRenderDistance": "מרחק ראיה"
+}

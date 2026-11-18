@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Látótávolság növelése (+Shift: csökkentés)",
+	"debug.cycle_renderdistance.message": "Látótávolság: %s",
+	"key.debug.cycleRenderDistance": "Látótávolság"
+}

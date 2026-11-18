@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Pārslēgt renderēšanas attālumu (shift lai apgrieztu)",
+	"debug.cycle_renderdistance.message": "Renderēšanas distance: %s",
+	"key.debug.cycleRenderDistance": "Renderēšanas attālums"
+}

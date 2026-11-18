@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F = Incrémenter la distance d'affichage (Maj. pour inverser)",
+	"debug.cycle_renderdistance.message": "Distance d'affichage : %s",
+	"key.debug.cycleRenderDistance": "Distance d'affichage"
+}

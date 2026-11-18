@@ -1,0 +1,5 @@
+{
+	"debug.cycle_renderdistance.help": "F3 + F =Weksel avstond an sir (Shift fer te invertira)",
+	"debug.cycle_renderdistance.message": "Avstond so synes:%s",
+	"key.debug.cycleRenderDistance": "Avstånd sos synes"
+}
